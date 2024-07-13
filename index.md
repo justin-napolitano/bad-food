@@ -1,5 +1,5 @@
 +++
-title =  "Video Games"
+title =  "Bad Food"
 author = "Justin Napolitano"
 tags = ["lifestyle","anxiety"]
 images = ["images/feature-image.png"]
