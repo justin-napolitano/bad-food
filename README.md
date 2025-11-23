@@ -1,6 +1,6 @@
 # Bad Food
 
-A personal reflection project by Justin Napolitano focused on identifying and letting go of "bad food" habits. This repository contains thoughtful insights and categories around food choices that impact health, teeth, and lifestyle.
+A personal reflection project by Justin Napolitano focused on identifying and letting go of "bad food" habits. This repository contains markdown-based insights and categorizations around food choices that impact health, dental well-being, and lifestyle.
 
 ## Features
 
@@ -10,7 +10,8 @@ A personal reflection project by Justin Napolitano focused on identifying and le
 
 ## Tech Stack
 
-This project is primarily a markdown-based personal journal/reflection. It does not use any specific programming language or framework.
+- Markdown files for content
+- No programming language or framework used
 
 ## Getting Started
 
@@ -27,6 +28,7 @@ cd bad-food
 ```
 /index.md    # Main content file containing the reflections and notes
 /images/     # (Assumed) folder for images referenced in the markdown
+README.md    # This file
 ```
 
 ## Future Work / Roadmap
