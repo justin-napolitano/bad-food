@@ -1,68 +1,43 @@
-+++
-title =  "Bad Food"
-author = "Justin Napolitano"
-tags = ["lifestyle","anxiety"]
-images = ["images/feature-image.png"]
-date = "2024-07-13"
-categories = ["reflection"]
-series = ["letting go"]
-+++
+---
+slug: "github-bad-food"
+title: "bad-food"
+repo: "justin-napolitano/bad-food"
+githubUrl: "https://github.com/justin-napolitano/bad-food"
+generatedAt: "2025-11-23T08:16:18.550269Z"
+source: "github-auto"
+---
 
 
-# Bad Food
+# Reflections on "Bad Food": Why I'm Letting Go and What It Means
 
-I am letting go of bad food.
+Hey there, I'm Justin Napolitano, and today I want to share some personal thoughts and reflections that I've been documenting in my project "Bad Food." This isn't your typical software repo—it's a deeply personal exploration of my relationship with food, health, and lifestyle choices.
 
-Bad food to me is 
+## Motivation
 
-* Unhealthy
-* Harmful to my teeth
-* Meat (I will expand)
-* Overly expensive
-* Ornamental
-* Idolized
+I've always been fascinated by how what we eat shapes not just our physical health but our mental well-being too. Over time, I realized I had some habits around food that weren't serving me well—things I now call "bad food." This project is my way of putting those thoughts into words, reflecting on why I want to let go of certain foods, and setting intentions for healthier living.
 
+## The Problem I'm Addressing
 
-## Unhealthy
+Food can be complicated. What counts as "bad" or "unhealthy" is often subjective and culturally influenced. For me, bad food includes things that are unhealthy, harmful to my teeth, overly expensive, or simply idolized without good reason. I wanted to unpack these categories and be honest with myself about what I consume and why.
 
-I do not really know what is unhealthy.. I think many things in moderation are probably okay.. That said I know that I want to avoid excess
+## How It's Built
 
-1. Salt
-2. Sugar
-3. Saturated Fat
-4. Calories
+This project lives as a markdown file (`index.md`) in a GitHub repository. It’s a journal of sorts, where I write down my thoughts, categorize my food choices, and reflect on my habits. The markdown format lets me keep things simple, portable, and easy to update. I also tag the content with categories like "reflection" and "letting go," and include images to complement the text.
 
+## Interesting Implementation Details
 
-So what do I actually eat now that I find unhealthy. 
+- I break down "bad food" into clear categories such as Unhealthy, Harmful to My Teeth, Meat, and others.
+- Within Unhealthy, I list specific things to avoid like excess salt, sugar, saturated fat, and calories.
+- I share personal stories, like how soda damaged my teeth and how I quit ice cream after a period of heavy running.
+- The tone is honest and self-reflective, acknowledging cultural and generational backgrounds that influenced my habits.
 
-### Fast Food 
+## Why this project matters for my career
 
-I occasionally eat fast food.. Typically when I am on a road trip or when I do not plan well.. I am not going to do this... to the best of my ability again. 
+While this might seem like a purely personal project, it actually reflects important skills and values that are relevant to my career as a developer and thinker:
 
-### Ice Cream
+- **Clarity of Thought:** Writing clearly about complex, personal topics helps me communicate better in professional settings.
+- **Self-Improvement:** Just like debugging code, reflecting on habits and iterating on them is key to growth.
+- **Documentation Practice:** Keeping well-structured markdown notes is a transferable skill for any software project.
+- **Empathy and Perspective:** Understanding personal and cultural context helps me build more thoughtful, user-centered software.
 
-There was a period when I was running 40ish miles a week. To keep up with my calorie demands I ate a lot of ice cream.  I quit eating ice cream because I felt gross.  I have more or less kept this up.. I will keep with it. 
-
-## Harmful to My Teeth
-
-I was not raised in an environment where it was easy to pick up healthy hygeine habits. I had to learn for myself how to care for my skin, teeth, body.. etc..  As I aside for a moment, this was not really my parent's fault.. It is generational back to my great grandparents (as far as I know).. It is just the reality of poor people from poor places.. from different times.. and of a different culture.  
-
-Okay.. so back to the point... I have damaged my teeth moreso than I would have liked. I want to preserve what I have now.. As a teen  I ruined my teeth with soda. Into my early 20's I had worn down my molars badly because of soda consumption. 
-
-I do not really drink soda anymore. I cannot think of when I had one last. Nonetheless I am going to try to avoid acidic and sugary sodas.. and foods to the best of my ability. I really do not want to pay for another root canal. 
-
-### Meat
-
-Meat is not necessarily bad. I am adding this because I feel badly for consuming animal products in general.. and even worse for consuming animals unecessarily.  I think that there is a place for consuming animal products.. and eating meat.. but I do not know if it is really necessary for me..  Getting enough nutrients without meat and fat is incredibly difficult. It requires more effort.. I have cut consumption by 90ish percent.. As in I have almost completely stopped eating meat.. but I do consume at on of milk.  
-
-## Overly Expensive
-
-I do not like feeling ripped off. I think much of the food on the market is overly priced to appeal to consumer trends. I do not want to eat food just because it is popular.. nor do I want to over pay for cheap food that fell off a sysco truck. 
-
-## Ornamental
-
-I do not know if ornamental is the correct word for me to use.  I am thinking that I do not want to eat food that has been overly prepared.  Salt Bae with his gold leaf is what I mean. I think an artful preparation of food is okay..But I do not like gimmicks.
-
-## Idolized
-
-I do not want to idolize a chef, my food, or anything really. 
+Thanks for reading along! If you’re interested in personal projects that blend lifestyle and reflection, or just want to see something different on GitHub, check out the repo. Maybe it’ll inspire you to think about your own "bad food" or habits you want to let go of.
