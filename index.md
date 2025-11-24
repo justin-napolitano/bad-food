@@ -1,12 +1,27 @@
 ---
-slug: "github-bad-food"
-title: "bad-food"
-repo: "justin-napolitano/bad-food"
-githubUrl: "https://github.com/justin-napolitano/bad-food"
-generatedAt: "2025-11-23T08:38:16.646578Z"
-source: "github-auto"
+slug: github-bad-food
+title: Technical Reflection on Documenting Dietary Habits in Markdown
+repo: justin-napolitano/bad-food
+githubUrl: https://github.com/justin-napolitano/bad-food
+generatedAt: '2025-11-23T08:38:16.646578Z'
+source: github-auto
+summary: >-
+  A structured markdown-based personal journal categorizing dietary habits focused on health, dental
+  impact, and lifestyle reflections.
+tags:
+  - markdown
+  - personal-knowledge
+  - dietary-habits
+  - health-tracking
+  - documentation
+seoPrimaryKeyword: dietary habits documentation
+seoSecondaryKeywords:
+  - markdown journal
+  - personal reflection
+  - health impact
+  - diet categorization
+seoOptimized: true
 ---
-
 
 # Bad Food: A Technical Reflection on Dietary Habits
 
@@ -45,3 +60,4 @@ The repository structure is minimal:
 ## Summary
 
 This repository exemplifies a minimalist approach to documenting complex personal behavior through simple, structured text files. It prioritizes clarity and self-accountability over technical complexity. Returning to this project requires understanding the markdown structure and the personal context encoded within the reflections.
+
