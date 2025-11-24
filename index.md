@@ -21,6 +21,13 @@ seoSecondaryKeywords:
   - health impact
   - diet categorization
 seoOptimized: true
+topicFamily: personal
+topicFamilyConfidence: 1
+topicFamilyNotes: >-
+  The blog post is a personal journal written in markdown reflecting on dietary habits, health, and
+  lifestyle. It matches exactly the 'personal' family which covers personal journals, dietary logs,
+  reflections, and attitude documentation focused on health, habits, and lifestyle. The slug
+  'github-bad-food' itself is an example slug in the 'personal' family.
 ---
 
 # Bad Food: A Technical Reflection on Dietary Habits
@@ -60,4 +67,5 @@ The repository structure is minimal:
 ## Summary
 
 This repository exemplifies a minimalist approach to documenting complex personal behavior through simple, structured text files. It prioritizes clarity and self-accountability over technical complexity. Returning to this project requires understanding the markdown structure and the personal context encoded within the reflections.
+
 
