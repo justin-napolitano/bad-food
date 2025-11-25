@@ -1,33 +1,41 @@
 ---
 slug: github-bad-food
-title: Technical Reflection on Documenting Dietary Habits in Markdown
+title: 'Bad Food: A Technical Reflection on Dietary Habits'
 repo: justin-napolitano/bad-food
 githubUrl: https://github.com/justin-napolitano/bad-food
 generatedAt: '2025-11-23T08:38:16.646578Z'
 source: github-auto
 summary: >-
-  A structured markdown-based personal journal categorizing dietary habits focused on health, dental
-  impact, and lifestyle reflections.
+  Explore a structured approach to documenting dietary habits and identifying
+  unhealthy foods through personal reflections and markdown organization.
 tags:
   - markdown
   - personal-knowledge
   - dietary-habits
   - health-tracking
   - documentation
+  - personal knowledge management
+  - dietary habits
+  - health tracking
+  - static site generator
 seoPrimaryKeyword: dietary habits documentation
 seoSecondaryKeywords:
-  - markdown journal
-  - personal reflection
-  - health impact
-  - diet categorization
+  - personal journal markdown
+  - food categorization
+  - health impact assessment
+  - markdown project structure
+  - self-accountability in diet
 seoOptimized: true
 topicFamily: personal
 topicFamilyConfidence: 1
 topicFamilyNotes: >-
-  The blog post is a personal journal written in markdown reflecting on dietary habits, health, and
-  lifestyle. It matches exactly the 'personal' family which covers personal journals, dietary logs,
-  reflections, and attitude documentation focused on health, habits, and lifestyle. The slug
+  The blog post is a personal journal written in markdown reflecting on dietary
+  habits, health, and lifestyle. It matches exactly the 'personal' family which
+  covers personal journals, dietary logs, reflections, and attitude
+  documentation focused on health, habits, and lifestyle. The slug
   'github-bad-food' itself is an example slug in the 'personal' family.
+kind: project
+id: github-bad-food
 ---
 
 # Bad Food: A Technical Reflection on Dietary Habits
