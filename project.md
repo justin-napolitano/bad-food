@@ -1,20 +1,28 @@
 ---
 slug: github-bad-food
 id: github-bad-food
-title: Bad Food
+title: Personal Reflection on Bad Food Habits and Insights
 repo: justin-napolitano/bad-food
 githubUrl: https://github.com/justin-napolitano/bad-food
 generatedAt: '2025-11-24T21:34:01.846Z'
 source: github-auto
 summary: >-
-  A personal reflection project by Justin Napolitano focused on identifying and
-  letting go of "bad food" habits. This repository contains markdown-based
-  insights and categorizations around food choices that impact health, dental
-  well-being, and lifestyle.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Explore a markdown-based project focused on identifying unhealthy food habits
+  and insights for better lifestyle choices.
+tags:
+  - markdown
+  - lifestyle
+  - dietary guidelines
+  - personal reflection
+  - food categorization
+seoPrimaryKeyword: bad food habits reflection
+seoSecondaryKeywords:
+  - markdown project
+  - lifestyle changes
+  - food choices
+  - diet insights
+  - health impact
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
