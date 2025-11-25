@@ -7,21 +7,23 @@ githubUrl: https://github.com/justin-napolitano/bad-food
 generatedAt: '2025-11-24T21:34:01.846Z'
 source: github-auto
 summary: >-
-  Explore a markdown-based project focused on identifying unhealthy food habits
-  and insights for better lifestyle choices.
+  Explore a markdown project focused on unhealthy food habits, categorization,
+  and lifestyle changes.
 tags:
   - markdown
   - lifestyle
   - dietary guidelines
   - personal reflection
   - food categorization
-seoPrimaryKeyword: bad food habits reflection
+  - diet
+  - food habits
+seoPrimaryKeyword: bad food habits project
 seoSecondaryKeywords:
-  - markdown project
+  - markdown insights
+  - food categorization
   - lifestyle changes
-  - food choices
-  - diet insights
-  - health impact
+  - dietary guidelines
+  - personal journal
 seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
